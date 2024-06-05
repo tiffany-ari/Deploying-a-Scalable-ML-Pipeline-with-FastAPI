@@ -21,7 +21,7 @@ _Please include the metrics used and your model's performance on those metrics._
 Precision: 0.7255 | Recall: 0.6321 | F1: 0.6756
 
 ## Ethical Considerations
-This model uses a census dataset, and may be contain biases.
+This model uses a census dataset, and may contain biases.
 
 ## Caveats and Recommendations
 The model should continue to be trained and tested to ensure accurancy and reduce any biases.
